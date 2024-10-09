@@ -1,6 +1,6 @@
 ![Enigmark ASCII banner](https://github.com/Enigmark/Enigmark/blob/main/enigmark.gif?raw=true)
 
-<h3 align="center">I am a Web Programmer from Soejana, currently sharing about modular IOT, Blockchain, Python/ReactJS/React Native/NodeJS and TypeScript.</h3>
+<h3 align="center">I am a Web Programmer from Soejana, currently sharing about modular IOT, Blockchain, Python/ReactJS/React Native/NodeJS/DeCode and TypeScript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enigmark&label=Profile%20views&color=0e75b6&style=flat" alt="enigmark" /> </p>
 
