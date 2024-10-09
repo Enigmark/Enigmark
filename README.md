@@ -2,15 +2,13 @@
 
 <h3 align="center">I am a Web Programmer from Indonesia, currently sharing about modular IOT, Blockchain, Python/ReactJS/React Native/NodeJS and TypeScript.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/zB9vrVYNTafMx7HBpL/200w.gif?cid=6c09b952x8r2oj8x8gpfae4ojgqdetzn1gpmmks0kyd6nwr2&ep=v1_gifs_search&rid=200w.gif&ct=g">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enigmark&label=Profile%20views&color=0e75b6&style=flat" alt="enigmark" /> </p>
 
 - 👩🏻‍💻 I’m currently learning **IOT, Blockchain, Programming, Automation**
 
 - 📧 How to reach me **https://t.me/dianseputra42**
 
-- ⚡ Fun fact **king**
+- ⚡ Fun fact **<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/zB9vrVYNTafMx7HBpL/200w.gif?cid=6c09b952x8r2oj8x8gpfae4ojgqdetzn1gpmmks0kyd6nwr2&ep=v1_gifs_search&rid=200w.gif&ct=g">**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
