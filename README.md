@@ -1,6 +1,6 @@
 ![Enigmark ASCII banner](https://github.com/Enigmark/Enigmark/blob/main/enigmark.gif?raw=true)
 
-<h3 align="center">I am a Web Programmer from Indonesia, currently sharing about modular IOT, Blockchain, Python/ReactJS/React Native/NodeJS and TypeScript.</h3>
+<h3 align="center">I am a Web Programmer from Soejana, currently sharing about modular IOT, Blockchain, Python/ReactJS/React Native/NodeJS and TypeScript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enigmark&label=Profile%20views&color=0e75b6&style=flat" alt="enigmark" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 📧 How to reach me **https://t.me/dianseputra42**
 
-<img align="center" alt="coding" width="150" src="https://media0.giphy.com/media/zB9vrVYNTafMx7HBpL/200w.gif?cid=6c09b952x8r2oj8x8gpfae4ojgqdetzn1gpmmks0kyd6nwr2&ep=v1_gifs_search&rid=200w.gif&ct=g">
+ABU JAHAL = <img align="center" alt="coding" width="150" src="https://media0.giphy.com/media/zB9vrVYNTafMx7HBpL/200w.gif?cid=6c09b952x8r2oj8x8gpfae4ojgqdetzn1gpmmks0kyd6nwr2&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
