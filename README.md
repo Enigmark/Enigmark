@@ -8,7 +8,7 @@
 
 - 📧 How to reach me **https://t.me/dianseputra42**
 
-- ⚡ Fun fact **<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/zB9vrVYNTafMx7HBpL/200w.gif?cid=6c09b952x8r2oj8x8gpfae4ojgqdetzn1gpmmks0kyd6nwr2&ep=v1_gifs_search&rid=200w.gif&ct=g">**
+- ⚡ Fun fact **<img align="right" alt="coding" width="150" src="https://media0.giphy.com/media/zB9vrVYNTafMx7HBpL/200w.gif?cid=6c09b952x8r2oj8x8gpfae4ojgqdetzn1gpmmks0kyd6nwr2&ep=v1_gifs_search&rid=200w.gif&ct=g">**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
